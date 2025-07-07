@@ -1,0 +1,1 @@
+Gesture recognize system, based on ELF2 board(RK3588), using yolov8.
